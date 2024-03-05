@@ -8,7 +8,7 @@ ___
 
 ### My last week's coding time in brief
 
-[![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dannyirumva&layout=compact&theme=dark)](https://github.com/dannyirumva)
+[![Danny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dannyirumva&layout=compact&theme=dark)](https://github.com/dannyirumva)
 
 
 ### Connect with me:
