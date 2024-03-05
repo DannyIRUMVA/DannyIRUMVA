@@ -10,7 +10,6 @@ ___
 
 [![Samuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dannyirumva&layout=compact&theme=dark)](https://github.com/dannyirumva)
 
-![Profile views](https://gpvc.arturio.devdannyirumva)  
 
 ### Connect with me:
 
