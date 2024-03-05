@@ -4,7 +4,7 @@ ___
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=dannyirumva&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/dannyirumva)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyirumva&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/dannyirumva)|![DannyIRUMVA](https://github-readme-streak-stats.herokuapp.com?user=dannyirumva)](https://git.io/streak-stats)
+|[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=dannyirumva&count_private=true&show_icons=true&theme=dark&hide_title=true)](https://github.com/dannyirumva)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyirumva&show_icons=true&langs_count=10&theme=dark&layout=compact&hide_title=true)](https://github.com/dannyirumva)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dannyIRUMVA)](https://git.io/streak-stats)
 
 ### My last week's coding time in brief
 
