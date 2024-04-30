@@ -1,4 +1,4 @@
-### Hi there,== 👋
+### Hi there 👋
 
 ## About Me
 I'm Danny IRUMVA, a seasoned Software Developer with two years of hands-on experience. My expertise lies in crafting clean, maintainable code following SOLID and DRY principles. Specializing in Laravel and Symfony frameworks, I implement architectural patterns such as CQRS and DDD, coupled with the repository pattern for efficient data access layer management. Proficient in MySQL and Docker for streamlined deployment processes. Experienced in utilizing Git for effective version control. Let's collaborate to transform your ideas into robust solutions!
